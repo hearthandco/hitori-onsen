@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://hearthandco.github.io/hitori-onsen/sitemap.xml
+Sitemap: https://onsen.hearthandco.net/sitemap.xml
